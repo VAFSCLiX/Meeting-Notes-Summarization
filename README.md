@@ -15,4 +15,4 @@ Presentation: https://docs.google.com/presentation/d/1d9krRkLZ7FPjF9GIFz9FCDXxES
 
 Example gov meeting: https://www.ctas.tennessee.edu/eli/sample-meeting-transcript
 
-Healthcare podcast example: https://academicmedicineblog.org/transcript-for-growing-trust-in-patient-physician-relationships/
+
