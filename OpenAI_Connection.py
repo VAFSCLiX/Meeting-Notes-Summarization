@@ -52,7 +52,15 @@ text: ```{meetingNotes}```
 
 # COMMAND ----------
 
-print(get_keynotes_from_meeting(meetingNotes))
+# Meeting of CTAS County Commission-Transcript of Dialogue
+CTAS_summary = get_keynotes_from_meeting(CTAS_meeting)
+print(CTAS_summary)
+
+# COMMAND ----------
+
+# Dialogue from huggingface
+ami_summary = get_keynotes_from_meeting(ami_meeting)
+print(ami_summary)
 
 # COMMAND ----------
 
