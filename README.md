@@ -6,7 +6,7 @@ Can't remember what happened in your meeting? You couldn't attend and nobody car
 Goal: summarize meeting notes from audio recording transcripts into bullet points.
 
 
-How: user uploads transcription, meeting summarization outputs from the chatbox. Connect to OpenAI prompt.
+How: user uploads meeting transcription. The interface connects to OpenAI prompt and returns meeting keynotes. 
 
 
 Presentation: https://docs.google.com/presentation/d/1d9krRkLZ7FPjF9GIFz9FCDXxESmRkLr0aSqhfVYZv8g/edit?usp=sharing
