@@ -8,3 +8,5 @@ OPENAI training: https://learn.deeplearning.ai/langchain/lesson/2/models,-prompt
 Presentation: https://docs.google.com/presentation/d/1d9krRkLZ7FPjF9GIFz9FCDXxESmRkLr0aSqhfVYZv8g/edit?usp=sharing
 
 Example gov meeting: https://www.ctas.tennessee.edu/eli/sample-meeting-transcript
+
+Healthcare podcast example: https://academicmedicineblog.org/transcript-for-growing-trust-in-patient-physician-relationships/
